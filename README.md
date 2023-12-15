@@ -19,7 +19,7 @@ The spatial patterns of biomass carbon densities were found to vary greatly acro
 
 If you use this dataset or findings in your research, please cite the paper:
 
-Author(s). "Title of the Paper." *Journal Name*, Volume(Issue), Page range. [DOI link](https://doi.org/xxxxxxx).
+ALuo, W., Kim, H. S., Zhao, X., Ryu, D., Jung, I., Cho, H., ... & Liang, J. (2020). New forest biomass carbon stock estimates in Northeast Asia based on multisource data. Global Change Biology, 26(12), 7045-7066. Page range. [DOI link](https://doi.org/10.1111/gcb.15376).
 
 ## License
 
